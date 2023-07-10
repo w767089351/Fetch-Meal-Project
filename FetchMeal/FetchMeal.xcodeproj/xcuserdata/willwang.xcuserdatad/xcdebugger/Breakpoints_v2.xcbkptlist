@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E6DEDCC-43A7-447C-ACFC-3834986E9D2D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3A8D02A-7484-415E-8080-2411BFC7CA33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchMeal/ViewModels/MealViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "loadMeals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3A8D02A-7484-415E-8080-2411BFC7CA33 - 75dfe955ef39de77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in FetchMeal.MealViewModel.loadMeals() -&gt; ()"
+                  moduleName = "FetchMeal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willwang/Documents/FetchInterview/FetchMeal/FetchMeal/ViewModels/MealViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "D3A8D02A-7484-415E-8080-2411BFC7CA33 - 75dfe955ef39db0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in FetchMeal.MealViewModel.loadMeals() -&gt; ()"
+                  moduleName = "FetchMeal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willwang/Documents/FetchInterview/FetchMeal/FetchMeal/ViewModels/MealViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAC6BABE-FEE9-4DFB-9C8C-03B5A9811A75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchMeal/ViewModels/MealViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchDataFromAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAC6BABE-FEE9-4DFB-9C8C-03B5A9811A75 - 5dfcc736476fa66e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchMeal.MealViewModel.fetchDataFromAPI() -&gt; Combine.AnyPublisher&lt;FetchMeal.Meal, Swift.Error&gt;"
+                  moduleName = "FetchMeal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willwang/Documents/FetchInterview/FetchMeal/FetchMeal/ViewModels/MealViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1541">
+               </Location>
+               <Location
+                  uuid = "CAC6BABE-FEE9-4DFB-9C8C-03B5A9811A75 - 5dfcc736476fa66e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchMeal.MealViewModel.fetchDataFromAPI() -&gt; Combine.AnyPublisher&lt;FetchMeal.Meal, Swift.Error&gt;"
+                  moduleName = "FetchMeal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willwang/Documents/FetchInterview/FetchMeal/FetchMeal/ViewModels/MealViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1525">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81E63911-25AC-404D-9394-A615AC25B87A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchMealTests/ImageViewTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testLoadImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "029133B0-6B4C-4DE1-A9BA-AE92511B52BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchMealTests/ImageViewTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testLoadImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
